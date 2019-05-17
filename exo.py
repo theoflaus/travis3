@@ -58,7 +58,7 @@ class Exercice_3:
         else:
             return False
 
-class Exercice 4:
+class Exercice_4:
 
     def __init__(self, title):
 
